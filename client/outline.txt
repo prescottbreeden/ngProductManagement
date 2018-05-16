@@ -1,0 +1,29 @@
+product management outline
+
+- ng new project
+- touch server.js
+- copy server from previous template
+- change models:
+	> products: {
+		stuff
+		}
+
+- Angular:
+
+- components (structure)
+	- setting up routes
+
+- create dummy data
+	test layout
+
+- form creation
+	test validations(?)
+
+- linking up CRUD
+
+Add
+get
+update
+delete
+
+-little stuff
